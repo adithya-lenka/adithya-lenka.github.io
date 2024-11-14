@@ -21,7 +21,7 @@ repository               : "adithya-lenka/adithya-lenka.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "adithya_pic.png"
+  avatar           : "adithya_pic.jpeg"
   name             : "Adithya Lenka"
   pronouns         : # example: "she/her"  
   bio              : "Computer Vision Researcher"
