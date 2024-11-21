@@ -11,7 +11,7 @@ redirect_from:
 
 🔬 I've worked on developing deep learning models for low-light image enhancement. I believe that Computer Vision algorithms have an important role to play in developing robots and autonomous systems.
 
-📚 I'm currently working towards pushing forward the state-of-the-art performance on 3-D Point Cloud Semantic Segnmentation.
+📚 I'm currently working towards pushing forward the state-of-the-art performance on 3-D Point Cloud Semantic Segmentation.
 
 <!-- A data-driven personal website
 ======

@@ -14,14 +14,17 @@ main:
   - title: "CV"
     url: /files/Adithya-Sai-Lenka-MS-Resume.pdf   
     
+  - title: "Achievements"
+    url: /achievements/
+
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
 
-  # - title: "Teaching"
-  #   url: /teaching/ 
+  - title: "Teaching"
+    url: /teaching/ 
     
   # - title: "Guide"
   #   url: /markdown/
